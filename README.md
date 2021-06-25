@@ -4,12 +4,9 @@
 - Morocco, Meknes;
 - Python Lover;
 - Free Software Enthusiast;
+<hr>
 
-
-<a href = "mailto:jbarbosa0504@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/johnathan-barbosa-de-ara%C3%BAjo-78a38a1a9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-# Technologies
+# Technologies & Tools
 <div>
 <div style="display: inline_block; margin-bottom: 20px;">
 <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg">
